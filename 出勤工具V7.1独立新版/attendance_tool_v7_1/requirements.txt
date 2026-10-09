@@ -1,0 +1,10 @@
+streamlit>=1.49,<2
+pandas
+numpy<2.0
+opencv-python-headless==4.10.0.84
+paddlepaddle==3.2.2
+paddleocr==3.7.0
+opencc-python-reimplemented==0.1.7
+openpyxl
+
+psutil==7.2.2
